@@ -21,13 +21,13 @@ Dillation, Close연산으로 선, 점의 노이즈를 제거해준다.
 ![그림3](https://user-images.githubusercontent.com/65157567/86440898-43bc5d80-bd46-11ea-9ec4-3d211cd9b710.png)   
 
 3) __Modeling__  
-CRNN + CTC Layer 모델 사용
+CRNN + CTC Layer 모델 사용  
 Vanilla CAPTCHA Image와 Preprocessed CAPTCHA Image 두 가지 데이터를 모델에 적용  
   
   
 4) __Model_Test__  
-2,000개의 CAPTCHA 이미지를 추가로 생성  
-Tesseract-OCR, CRNN+CTC Layer 모델로 결과를 비교 
+2,000개의 CAPTCHA 이미지를 추가로 생성   
+Tesseract-OCR, CRNN+CTC Layer 모델로 결과를 비교   
   
 ### 설치 패키지
 1. Tesseract-OCR
