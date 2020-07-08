@@ -14,4 +14,3 @@
 
 [Reference: modeling](https://m.blog.naver.com/PostView.nhn?blogId=sogangori&logNo=221183469708&proxyReferer=https:%2F%2Fwww.google.com%2F)  
 [Reference: CTC Layer](https://distill.pub/2017/ctc/)  
-[Reference: kaggle](https://www.kaggle.com/aakashnain/building-a-captcha-ocr-in-tf2-0)  
